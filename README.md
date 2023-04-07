@@ -44,13 +44,34 @@ They can't convert an image into a full description as well.
 It needs supervised/reinforcement learning as for now.
 
 - What performance metric should you use to evaluate the success of your system?
+
+* the description product is pertinent
+* users convert more posts
+
 - Is the performance metric aligned with the business objective?
+
+This perfomance metric is on phase with the business objective
+
 - What assumptions are you making about the problem? Are these assumptions valid?
+
+
 - How would you solve this problem manually if you had to?
+
 - What kind of data do you need, and how much of it?
+
+I need a large dataset of products to train my model.
+
 - What are the relevant features in the data that will help you solve the problem?
+
+The shape, the color of a product
+
 - How will you verify that your solution is working?
+
+If the input with an image of a product gives a pertinent description as an output
+
 - What are the implications of your solution for future developments?
+
+My solution needs an interface to handle the submission of an image/keywords and display the description of the product
 
 ## Functionnalities 🧱
 
