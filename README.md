@@ -5,9 +5,9 @@
 Turbo complete is a tool that help you to complete an advert based on the image of your product or specific key words.
 
 
-## Checklist ☑
+## Project Analysis 🔬
 
-For this project I did a chcklist based on the book Hands On Machine Learning with Scikit-Learn & tensorflow from Aurélien Géron to estimate if the project is valuable using IA.
+For this project I did a checklist based on the book Hands On Machine Learning with Scikit-Learn & tensorflow from Aurélien Géron to estimate if the project is valuable using IA.
 
 8 big steps of the checklist
 
