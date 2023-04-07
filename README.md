@@ -45,8 +45,8 @@ It needs supervised/reinforcement learning as for now.
 
 - <ins>What performance metric should you use to evaluate the success of your system?</ins>
 
-* the description product is pertinent
-* users convert more posts
+the description product is pertinent
+users convert more posts
 
 - <ins>Is the performance metric aligned with the business objective?</ins>
 
