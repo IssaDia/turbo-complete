@@ -15,7 +15,7 @@ For this project I did a checklist based on the book Hands On Machine Learning w
 
 We have 12 questions to respond to definite our project clearly
 
-- What is the objective of the system you are building?
+- <ins>What is the objective of the system you are building?</ins>
 
 The objective is to facilitate the writing of an advert. This task can be annoying for certain users and make retenetion damage. 
 
