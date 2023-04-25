@@ -23,7 +23,7 @@ The goal is  to generate an advertisement based on an input image, using artific
 
 My system will be able to analyze an image, understand the context then generate a written description that is suitable to use for an advertisement.
 
-The ultimate goal is to help people create engaging and peruasive advertisement or profiles that capture the attention of the target audience.
+The ultimate goal is to help people create engaging and persuasive advertisement or profiles that capture the attention of the target audience.
 
 - <ins>How will your solution be used, and what impact will it have?</ins>
 
