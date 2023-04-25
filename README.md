@@ -39,8 +39,6 @@ Here's the algorithm I have in mind :
 
 As for now people can use tools like Jasper or ChatGPT to make product description based on keywords but it is not build-in solutions in applications involving advertisements or updating profiles.
 
-They can't convert an image into a full description as well.
-
 - <ins>How can you frame this problem in terms of supervised, unsupervised, or reinforcement learning?</ins>
 
 This problem can be framed in terms of supervised learning, where the system is trained with a labeled dataset of images and their corresponding name/keywords.
