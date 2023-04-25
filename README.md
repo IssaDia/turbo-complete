@@ -28,7 +28,7 @@ The ultimate goal is to help people create engaging and persuasive advertisement
 - <ins>How will your solution be used, and what impact will it have?</ins>
 
 
-The solution can be used by businesses and organizations that want to help their users to create efficient and quick advertisements. This could have a siginifiant impact on the numbers of advertisements or profiles updated on their plateform. So it could potentially help to increased revenue and sales for these buisinesses
+The solution can be used by businesses and organizations that want to help their users to create efficient and quick advertisements. This could have a siginificant impact on the numbers of advertisements or profiles updated on their plateform. So it could potentially help to increased revenue and sales for these buisinesses
 
 Here's the algorithm I have in mind : 
 
