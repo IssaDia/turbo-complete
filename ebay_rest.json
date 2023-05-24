@@ -18,10 +18,10 @@
       "redirect_uri": "Issa_Dia-IssaDia-turboco-pbkrvjjsj"
     },
     "sandbox_1": {
-      "app_id": "placeholder-placeholder-SBX-placeholder-placeholder",
-      "cert_id": "SBX-placeholder-placeholder-placeholder-placeholder-placeholder",
-      "dev_id": "placeholder-placeholder-placeholder-placeholder-placeholder",
-      "redirect_uri": "placeholder-placeholder-placeholder-placeholder"
+      "app_id": "IssaDia-turbocom-SBX-fba1f0f8e-ded92835",
+      "cert_id": "SBX-ba1f0f8ebf4f-dfa7-420f-b47b-0f8d",
+      "dev_id": "5e32c707-87ec-410b-9963-72752624a5af",
+      "redirect_uri": "Issa_Dia-IssaDia-turboco-ohfxpsarp"
     }
   },
   "users": {
@@ -39,8 +39,8 @@
       "refresh_token_expiry": ""
     },
     "sandbox_1": {
-      "email_or_username": "placeholder",
-      "password": "placeholder",
+      "email_or_username": "jazzy69008",
+      "password": "Shyrone59@",
       "refresh_token": "",
       "refresh_token_expiry": ""
     }
