@@ -9,7 +9,7 @@ Turbo complete is a tool that help you to complete an advert based on the image 
 
 For this project I did a checklist based on the book Hands On Machine Learning with Scikit-Learn & tensorflow from Aurélien Géron to estimate if the project is valuable using IA.
 
-8 big steps of the checklist
+The 8 big steps of this checklist : 
 
 1. Frame the problem and look at the big picture.
 
@@ -78,7 +78,7 @@ All these assumptions seems to be valid because it depends on the performance of
 
 If I had to solve the problem manually I would have to :
 
-1/ Check the image to determine their category then think about keyworks associated with the image.
+1/ Check the image to determine their category then think about ] associated with the image.
 
 2/ Think about the writing style based on the audience targeted.
 
@@ -126,13 +126,54 @@ However, a large amount of data could be challenging in termes of poccessing and
 
 My solution needs an interface to handle the submission of an image/keywords and display the description of the product
 
+
+
+## Tools ⚒️
+
+### Language
+
+- [Python v. 3.9.6](https://www.python.org/downloads/release/python-396/)
+
+### Code editor
+
+- [VS code](https://code.visualstudio.com/docs)
+
+  ### Libraries
+
+- [Ebay Rest](https://github.com/matecsaj/ebay_rest)
+- [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
+- [CSV](https://docs.python.org/3/library/csv.html)
+- [Requests](https://pypi.org/project/requests/)
+
+
+  ### API
+
+  - [Ebay Developer](https://developer.ebay.com/develop/apis/restful-apis/developer-apis)
+
+  ## How to run the application
+
+### 📥 Install packages
+
+Ebay rest
+
+```
+pip install ebay_rest
+```
+    
+
 ## Functionnalities 🧱
 
 ## Plan 🗺️
 
-## Tools ⚒️
 
 ## Architecture 🏗️
+
+### Project structure
+
+
+### Design Patterns
+
+
 
 ## Testing 🧪
 
