@@ -126,7 +126,7 @@ However, a large amount of data could be challenging in termes of poccessing and
 
 My solution needs an interface to handle the submission of an image/keywords and display the description of the product
 
-
+2. Retrieve the data
 
 ## Tools ⚒️
 
